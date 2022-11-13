@@ -123,6 +123,14 @@ I changed it and added migration again by using following command:
    
    PM>add-migration AddDefaultIdentityMigration
 
+        ...02:48PM....
+Update the databaseusing following command
+
+PM>update-database
+andthen reviewed the database in SQL Server
+
+3.00Pm
+Added Category.cs file in Models Project
 
 
 
