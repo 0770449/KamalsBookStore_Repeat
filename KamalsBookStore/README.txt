@@ -141,8 +141,18 @@ and push it to the github
 
 
 ....3:36PM
-Start part2(2.2 Repository)
-Added a new folder namely Repository and further subfolder namely IRepository
+part 2.2  Repository
+
+3:35 - started the repository and category
+
+04:00 - typing the code of cateory and reppository
+
+
+05:54 - got many eroors in category and repository
+
+05:55 -try to solve the errors in code
+
+
 
 
 
