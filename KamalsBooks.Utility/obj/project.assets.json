@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\0770449\\Assignment2\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
       "projectName": "KamalsBooks.Utility",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\0770449\\Assignment2\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+      "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\0770449\\Assignment2\\KamalsBooks.Utility\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore\\KamalsBooks.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

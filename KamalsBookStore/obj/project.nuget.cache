@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uUyxXxDmWkxFnbMxr/cT+Q8kh/Uc4K2+BY89G0GKTsCkinzmPltz4M1xIId+Y31njsGi5wSJbsfkjsHidmKmMg==",
+  "dgSpecHash": "qoDJZTXu6WO0vrIaOo9MEmvB/E0MES++cpC56v+4LTH0lZdfB9VktpKiLkOo6IxGjB0R7dOrVFO7w7p26i1VqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\0770449\\Assignment2\\KamalsBookStore\\KamalsBookStore.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore\\KamalsBookStore\\KamalsBookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.30\\microsoft.aspnetcore.cryptography.internal.3.1.30.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.30\\microsoft.aspnetcore.cryptography.keyderivation.3.1.30.nupkg.sha512",
