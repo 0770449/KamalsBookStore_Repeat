@@ -3,6 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using KamalsBooks.Models;
+
+
 
 namespace KamalsBookStore.DataAccess.Data
 {
@@ -12,5 +15,6 @@ namespace KamalsBookStore.DataAccess.Data
             : base(options)
         {
         }
+        public DbSet<Category> Categories { get; set; }
     }
 }

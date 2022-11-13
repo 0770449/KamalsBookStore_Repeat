@@ -131,6 +131,12 @@ andthen reviewed the database in SQL Server
 
 3.00Pm
 Added Category.cs file in Models Project
+And again add migration for the Category.cs file
+  
+  add-migration AddCategoryToDb
+
+
+
 
 
 
