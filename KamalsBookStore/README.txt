@@ -115,6 +115,20 @@ Run thr project and is error free now
 .......Date:11/12/2022 
        Time: 02:15PM..........
 
+Run the project again and working well
+
+I created the migration by using Package manager Console in the default project namely:KamalsBookStore
+But it was showing that change the project .DataAccess
+I changed it and added migration again by using following command:
+   
+   PM>add-migration AddDefaultIdentityMigration
+
+
+
+
+
+
+
 
  
 
