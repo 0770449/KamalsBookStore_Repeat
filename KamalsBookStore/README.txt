@@ -129,11 +129,24 @@ Update the databaseusing following command
 PM>update-database
 andthen reviewed the database in SQL Server
 
-3.00Pm
+.....3.00PM....
 Added Category.cs file in Models Project
 And again add migration for the Category.cs file
   
   add-migration AddCategoryToDb
+
+....  3:22PM.....
+Again did migration and update the dabase
+and push it to the github
+
+
+....3:36PM
+Start part2(2.2 Repository)
+Added a new folder namely Repository and further subfolder namely IRepository
+
+
+
+
 
 
 
