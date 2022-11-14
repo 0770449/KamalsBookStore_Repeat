@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {}
+    "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
+    "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
         "projectName": "KamalsBooks.Models",
-        "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore\\KamalsBooks.Models\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

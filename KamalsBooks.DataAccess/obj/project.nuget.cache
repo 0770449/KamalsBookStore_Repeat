@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Zqj1660SV8GZYQ14ts6HHTIXYNrZ9FPdwIUO+ZW5IDYIjZLiQjkaGbCvBTxpnz7+ngPIQME9mNDy6GkeFoIig==",
+  "dgSpecHash": "YctoyTOHAHugCoe4K1i/RoTnc7p3epQ2uGj3xXNUQhumV2unxWNSFW8HhW7J4hcwkWqGY2ZiCOYhIxOtrvNUoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
