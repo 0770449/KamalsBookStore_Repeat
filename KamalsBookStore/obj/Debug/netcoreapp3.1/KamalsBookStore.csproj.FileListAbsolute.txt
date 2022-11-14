@@ -1327,3 +1327,8 @@ C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
