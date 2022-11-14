@@ -99,7 +99,7 @@ Finished everything before creating three new projects.
 -In the DataAccess project add project references to Models and Utility 
 
 11:18PM
--Add a ‘Customers’ area to Areas 
+-Add a â€˜Customersâ€™ area to Areas 
 -Change the routes in Startup.cs
 -Move the HomeController.cs to the Area > Customer > Controller folder and delete Data and Models.
 -Edit the HomeController.cs
@@ -184,6 +184,9 @@ Part 2.3 Category CRUD
  To perform delete operation Add the delete functionality in category.js 
 Add the Delete(url) functioncode 
 Finished with  part 2.3.......
+
+12:52AM....
+Change theme to Yeti as in  pprevious one some of the contents were not vesible very well
 
 
 
