@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {}
+    "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
         "projectName": "KamalsBooks.Utility",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore\\KamalsBooks.Utility\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
