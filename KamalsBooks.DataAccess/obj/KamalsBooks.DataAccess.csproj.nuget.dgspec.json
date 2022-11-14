@@ -58,6 +58,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.30, )"
+            },
+            "VeryGood.AspNetCore.Identity.Dapper": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [

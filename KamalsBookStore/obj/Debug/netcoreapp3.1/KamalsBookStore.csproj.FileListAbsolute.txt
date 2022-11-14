@@ -1321,3 +1321,8 @@ C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.dll
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.pdb
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.genruntimeconfig.cache
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1\AspNetCore.Identity.Dapper.dll
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

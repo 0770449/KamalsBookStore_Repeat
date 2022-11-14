@@ -7,7 +7,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace AndrewsBooks.DataAccess.Repository
+namespace KamalsBooks.DataAccess.Repository
 {
     // Implements all the methods of the IRepository
     public class Repository<T> : IRepository<T> where T : class
@@ -70,6 +70,11 @@ namespace AndrewsBooks.DataAccess.Repository
             }
 
             return query.FirstOrDefault();      // returns the IEnumerable based on the conditions of the query
+        }
+
+        public T getFirstOrDefault(Expression<Func<T, bool>> filter = null, string includeProperties = null)
+        {
+            throw new NotImplementedException();
         }
 
         public void Remove(int id)
