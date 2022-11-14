@@ -27,6 +27,7 @@ namespace KamalsBookStore.Area.Admin.Controllers
         {
             return View();
         }
+
         public IActionResult upsert(int? id)
         {
             Category category = new Category();
@@ -43,6 +44,33 @@ namespace KamalsBookStore.Area.Admin.Controllers
             return View();
         }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Upsert(Category category)
+        {
+            if (ModelState.IsValid)
+            {
+                if (category.Id == 0)
+
+                {
+                    _unitOfWork.Category.Add(category);
+                    _unitOfWork.Save();
+
+                }
+                else
+                {
+                    _unitOfWork.Category.Update(category);
+                }
+                
+                
+            }
+            return View(category);
+        }
+
+
+
+
+
         #region API CALLS
         [HttpGet]
 
@@ -50,6 +78,19 @@ namespace KamalsBookStore.Area.Admin.Controllers
         {
             var allobj = _unitOfWork.Category.GetAll();
             return Json(new { data = allobj });
+        }
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            var objFromDb = _unitOfWork.Category.Get(id);
+            if (objFromDb == null)
+            {
+                return Json(new { success = false, message = "Error while deleting" });
+
+            }
+            _unitOfWork.Category.Remove(objFromDb);
+            _unitOfWork.Save();
+            return Json(new { success = true, messasge = "Delete successful" });
         }
 
         #endregion
