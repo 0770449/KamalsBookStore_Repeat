@@ -143,14 +143,52 @@ and push it to the github
 ....3:36PM
 part 2.2  Repository
 
-3:35 - started the repository and category
+3:37 - started the repository and category
 
-04:00 - typing the code of cateory and reppository
+04:00 - typing the code of CateoryRepository and Repository files
+        Repository.cs copied from the given files
 
 
-05:54 - got many eroors in category and repository
+05:54 - got many errors in the code
+ ..... 05:55PM
+   -try to solve the errors in code
 
-05:55 -try to solve the errors in code
+ .....06:10Pm.... 
+- Finally solved the problems
+       
+....06:15PM....
+  I made the Sp_Call.cs and ISP_Call.cs(interface) files in the given repository
+  and also added using statements
+  Following this I wrote the code for unitofwork file and Iunitofwork.cs file according to the given code
+  Pushed the code to the github
+
+
+....07:45PM......
+Part 2.3 Category CRUD
+ Firstly I added services.AddScoped<IUnitOfWork, UnitOfWork>(); in the startup.cs file
+
+ Added new MVC Controller in Area/Admin and gave it name of CategoryController.cs
+ Then I added Area/View folder and inside it I added Index.cshtml file
+ In -Layout.cshtml file, move the 'Category' link to the Content management drop down.Now its showing in the drop list of it
+ Modified the index.cshtml  inorder to add the icons
+
+ 8:00PM
+ Remove this code from given file and added it to the given javascript file
+
+ To perform CRUD operation, added the Upsert.cshtml file,copied given code in it,modified it
+ In the Index.cshtml file added the asp-action where its required
+
+ 10:05pm
+ Remove the _db.SaveChanges from the CategoryRepository.cs file and move the _unitOfWork.Save() method with the return RedirectToaction method. 
+
+ To perform delete operation Add the delete functionality in category.js 
+Add the Delete(url) functioncode 
+Finished with  part 2.3.......
+
+
+
+
+
 
 
 
