@@ -1326,3 +1326,4 @@ C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1\AspNetCore.Identity.Dapper.dll
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs

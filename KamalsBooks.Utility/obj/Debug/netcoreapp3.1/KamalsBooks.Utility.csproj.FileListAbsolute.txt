@@ -11,7 +11,6 @@ C:\Users\hp\source\repos\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBooks.Utility\bin\Debug\netcoreapp3.1\KamalsBooks.Utility.deps.json
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBooks.Utility\bin\Debug\netcoreapp3.1\KamalsBooks.Utility.dll
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBooks.Utility\bin\Debug\netcoreapp3.1\KamalsBooks.Utility.pdb
-C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.csproj.AssemblyReference.cache
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.AssemblyInfoInputs.cache
 C:\Users\hp\Source\Repos\KamalsBookStore\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.AssemblyInfo.cs
