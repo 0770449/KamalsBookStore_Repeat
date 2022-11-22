@@ -36,3 +36,13 @@ C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Deb
 C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Debug\netcoreapp3.1\KamalsBooks.Models.csproj.CoreCompileInputs.cache
 C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Debug\netcoreapp3.1\KamalsBooks.Models.dll
 C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Debug\netcoreapp3.1\KamalsBooks.Models.pdb
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBooks.Models\bin\Debug\netcoreapp3.1\KamalsBooks.Models.deps.json
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBooks.Models\bin\Debug\netcoreapp3.1\KamalsBooks.Models.dll
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBooks.Models\bin\Debug\netcoreapp3.1\KamalsBooks.Models.pdb
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Debug\netcoreapp3.1\KamalsBooks.Models.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Debug\netcoreapp3.1\KamalsBooks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Debug\netcoreapp3.1\KamalsBooks.Models.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Debug\netcoreapp3.1\KamalsBooks.Models.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Debug\netcoreapp3.1\KamalsBooks.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Debug\netcoreapp3.1\KamalsBooks.Models.dll
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBooks.Models\obj\Debug\netcoreapp3.1\KamalsBooks.Models.pdb

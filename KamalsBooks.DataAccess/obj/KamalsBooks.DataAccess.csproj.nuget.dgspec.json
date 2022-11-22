@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj": {}
+    "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj",
         "projectName": "KamalsBooks.DataAccess",
-        "projectPath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\W0770449\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\W0770449\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -33,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
-                "projectPath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Models\\KamalsBooks.Models.csproj"
+              "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Models\\KamalsBooks.Models.csproj"
               },
-              "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
-                "projectPath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj"
+              "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj"
               }
             }
           }
@@ -84,27 +79,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
         "projectName": "KamalsBooks.Models",
-        "projectPath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
-        "packagesPath": "C:\\Users\\W0770449\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Models\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\W0770449\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -143,27 +133,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
         "projectName": "KamalsBooks.Utility",
-        "projectPath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
-        "packagesPath": "C:\\Users\\W0770449\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\W0770449\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -202,7 +187,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }
