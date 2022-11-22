@@ -21,13 +21,13 @@ using KamalsBookStore;
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\Areas\Customer\Views\_ViewImports.cshtml"
-using KamalsBookStore.Models;
+using KamalsBookStore.Models.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a4bc9cb4a1d11f0c28a746ed054b4cb82c25e233", @"/Areas/Customer/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0ada6f8f8a77ae5f34e6bdc281801e062e2061de", @"/Areas/Customer/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"074d113bf8177e6a5cb0d14e8ad48ec57546a0ad", @"/Areas/Customer/Views/_ViewImports.cshtml")]
     public class Areas_Customer_Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

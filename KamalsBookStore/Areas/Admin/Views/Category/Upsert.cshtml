@@ -1,18 +1,19 @@
 ﻿@model KamalsBooks.Models.Category;
 
-@{ Layout = "~/Views/Shared/_Layout.cshtml";
+@{
+    ViewData["Title"] = "Category Upsert";
     var title = "Create Category";
 }
 
 <form method="post">
     <div class="row p-3 border">
-        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div asp-validation-summary="ModelOnly"></div>
         @if (Model.Id != 0)
         {
-            title = "Edit Category";
+            title = "Edit Category"; //edit
         }
         <div class="col-12 border-bottom">
-            <h2 class="text-primary"> @title</h2>
+            <h2 class="text-primary">@title</h2>
         </div>
         <div class="col-8 pt-4">
             <div class="form-group row">
@@ -28,11 +29,11 @@
                 <div class="col-8 offset-4">
                     @if (Model.Id != 0)
                     {
-                        <partial name="_EditAndBackToListButton" modal="Model.Id" />
+                        <partial name="~/Views/Shared/_EditAndBackToListButton.cshtml" model="Model.Id" />
                     }
                     else
                     {
-                        <partial name="_CreateAndBackToListButton" />
+                        <partial name="~/Views/Shared/_CreateAndBackToListButton.cshtml" />
                     }
                 </div>
             </div>
@@ -40,6 +41,6 @@
     </div>
 </form>
 
-@section Scripts{
+@section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }

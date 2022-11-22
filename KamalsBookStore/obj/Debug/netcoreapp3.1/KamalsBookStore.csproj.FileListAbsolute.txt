@@ -2236,6 +2236,7 @@ C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\
 C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.dll
 C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.pdb
 C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.genruntimeconfig.cache
+C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\bin\Debug\netcoreapp3.1\KamalsBookStore.StaticWebAssets.xml
@@ -2648,7 +2649,6 @@ C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\bin\Debu
 C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\bin\Debug\netcoreapp3.1\KamalsBooks.Models.pdb
 C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\bin\Debug\netcoreapp3.1\KamalsBooks.Utility.pdb
 C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.csproj.AssemblyReference.cache
-C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.AssemblyInfoInputs.cache
 C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.AssemblyInfo.cs
 C:\Users\hp\Source\Repos\0770449\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.csproj.CoreCompileInputs.cache
