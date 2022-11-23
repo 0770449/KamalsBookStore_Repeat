@@ -188,6 +188,35 @@ Finished with  part 2.3.......
 12:52AM....
 Change theme to Yeti as in  pprevious one some of the contents were not vesible very well
 
+..........Date:11/22/2022...................
+Part 3 starts
+
+12:05PM
+Start the project again
+Review the all files and made changes where needed
+Run the program  again and working very well
+
+......01:15PM......
+Initially, I created the CoverType.cs  file inside models project with Id and name
+
+.....1:30PM.....
+In Repository folder, Added CoverTypeRepository class and interface
+Added CoverType to the UnitofWork and IUnitofWprk
+Following this I did migration with following timestamp
+ 
+ add-migration 20221123035635_AddCoverTypeToDatabase
+
+ Then update the database
+
+ ....2:35PM....
+ Added coverType controller with required action methods
+.....3:50PM.....
+added the files for the covertype in view
+ 1. Index.cshtml
+ 2.Upsert.cshtml
+
+ Feeling little bit tired 
+ laeve the project for some time
 
 
 
