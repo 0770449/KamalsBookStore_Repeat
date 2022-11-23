@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "B20W8xAJJ+vng1SI8ZNxGPafRRZW7sjtyN9yUriHDV2jE7+0Cqo7px2iVbcP4Q8Bt6Ji1e/zqpDVyBIy6tXOlw==",
+  "dgSpecHash": "aq7FrmIh4xwSGDY9ufYLMuyLSQhM//eWYSdvpiEYl7+W5f0fr64P9qNFzALK3/eksdk3ejwCWtZBKC/6N2A/rw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Source\\Repos\\0770449\\KamalsBookStore_Repeat\\KamalsBookStore\\KamalsBookStore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hp\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
@@ -153,7 +153,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",

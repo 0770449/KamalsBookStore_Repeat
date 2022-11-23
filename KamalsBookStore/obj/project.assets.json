@@ -2,10 +2,10 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Dapper/2.0.30": {
+      "Dapper/2.0.123": {
         "type": "package",
         "dependencies": {
-          "System.Reflection.Emit.Lightweight": "4.6.0"
+          "System.Reflection.Emit.Lightweight": "4.7.0"
         },
         "compile": {
           "lib/netstandard2.0/Dapper.dll": {}
@@ -2296,7 +2296,7 @@
           "lib/netstandard1.3/System.Reflection.Emit.ILGeneration.dll": {}
         }
       },
-      "System.Reflection.Emit.Lightweight/4.6.0": {
+      "System.Reflection.Emit.Lightweight/4.7.0": {
         "type": "package",
         "compile": {
           "ref/netcoreapp2.0/_._": {}
@@ -3085,6 +3085,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Dapper": "2.0.123",
           "KamalsBooks.Models": "1.0.0",
           "KamalsBooks.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.30",
@@ -3122,17 +3123,20 @@
     }
   },
   "libraries": {
-    "Dapper/2.0.30": {
-      "sha512": "nL0VEpvunjIQ3jTI1x27b7BS3BnRnn5b2vhxsU2pWEd9SljF5WUQLoV/83qXTm0yaHmejRV/ndI3EApGlrgPqw==",
+    "Dapper/2.0.123": {
+      "sha512": "RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ==",
       "type": "package",
-      "path": "dapper/2.0.30",
+      "path": "dapper/2.0.123",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "dapper.2.0.30.nupkg.sha512",
+        "Dapper.png",
+        "dapper.2.0.123.nupkg.sha512",
         "dapper.nuspec",
         "lib/net461/Dapper.dll",
         "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
         "lib/netstandard2.0/Dapper.dll",
         "lib/netstandard2.0/Dapper.xml"
       ]
@@ -7516,10 +7520,10 @@
         "system.reflection.emit.ilgeneration.nuspec"
       ]
     },
-    "System.Reflection.Emit.Lightweight/4.6.0": {
-      "sha512": "j/V5HVvxvBQ7uubYD0PptQW2KGsi1Pc2kZ9yfwLixv3ADdjL/4M78KyC5e+ymW612DY8ZE4PFoZmWpoNmN2mqg==",
+    "System.Reflection.Emit.Lightweight/4.7.0": {
+      "sha512": "a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
       "type": "package",
-      "path": "system.reflection.emit.lightweight/4.6.0",
+      "path": "system.reflection.emit.lightweight/4.7.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7568,7 +7572,7 @@
         "ref/xamarinwatchos10/_._",
         "runtimes/aot/lib/netcore50/System.Reflection.Emit.Lightweight.dll",
         "runtimes/aot/lib/netcore50/System.Reflection.Emit.Lightweight.xml",
-        "system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+        "system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
         "system.reflection.emit.lightweight.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
