@@ -3121,7 +3121,6 @@ C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netco
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
-C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
@@ -3146,3 +3145,6 @@ C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netco
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.dll
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.pdb
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.genruntimeconfig.cache
+C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
