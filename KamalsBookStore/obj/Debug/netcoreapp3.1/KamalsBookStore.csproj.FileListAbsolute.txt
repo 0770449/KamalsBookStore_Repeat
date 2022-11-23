@@ -3148,3 +3148,8 @@ C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netco
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\hp\Source\Repos\KamalsBookStore_Repeat1\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBookStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
+C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
+C:\Users\W0770449\Source\Repos\KamalsBookStore_Repeat\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs

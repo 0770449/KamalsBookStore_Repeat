@@ -219,6 +219,43 @@ added the files for the covertype in view
  laeve the project for some time
 
 
+ ....Date11/23/2022....
+ ......12:00PM.....
+ start part 3.2 product CRUD
+
+ Add a new class Product.cs in the model project
+ Added code for the blueprint of the product class and make it public class
+
+ ...12:45PM....
+ Add reference of product in the ApplicationDbContext file in DataAccess like as follows:
+  public DbSet<Product> Product { get; set; }
+
+  .....1:00PM.....
+  Added migration for the product
+  -20221123183120_AddProductToDb
+  And then update it
+  - Update-migration
+
+  ....01:12PM.....
+  Viewed the Product Table in SOE
+
+  01:23PM...
+Now,Again update the Product class
+via adding required to the Title,ISBN and Author
+
+.....1:30PM.....
+Did migration again
+20221123184058_AddValidationToProduct
+and update it
+
+
+
+
+
+
+
+
+
 
 
 
