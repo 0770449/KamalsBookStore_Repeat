@@ -244,9 +244,38 @@ Now,Again update the Product class
 via adding required to the Title,ISBN and Author
 
 .....1:30PM.....
-Did migration again
+add migration again
 20221123184058_AddValidationToProduct
 and update it
+
+....2:55PM....
+Added ProductRepository to the Repository folder and along with interface namely IProductRepository
+Added Product to the UnitOfWork  and IUnitofWork
+
+Run the Application, working smoothly all the project were succeded
+
+.....3:12PM....
+Start part 3.2 productCRUD(2)
+Added ProductController to the Areas>Admin>Controller
+
+Aded the content for the IWebHostEnvironment anf using statement
+
+Inside ViewModel in the Models Project added ProductVM.cs class
+
+
+....03:23PM...
+Installed the Package namely 
+-Microsoft.AspNetCore.Mvc.ViewFeature
+
+.....04:12Pm.....
+-Modified the Api Call to include the Category and CoverType properties
+- inside Admin/Views/Product I added the index.cshtml file
+-Chnaged the _Layout.cshtml file to add a new link to product
+
+
+
+
+
 
 
 

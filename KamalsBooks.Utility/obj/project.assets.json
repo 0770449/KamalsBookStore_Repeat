@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\W0770449\\.nuget\\packages\\": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_Repeatt\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
       "projectName": "KamalsBooks.Utility",
-      "projectPath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
-      "packagesPath": "C:\\Users\\W0770449\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBooks.Utility\\obj\\",
+      "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_Repeatt\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_Repeatt\\KamalsBooks.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\W0770449\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }
