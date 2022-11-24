@@ -272,6 +272,8 @@ Installed the Package namely
 - inside Admin/Views/Product I added the index.cshtml file
 -Chnaged the _Layout.cshtml file to add a new link to product
 
+Run the application without adding the upsert.cshtml file for the product
+
 
 
 
