@@ -33,6 +33,20 @@ Kamaljeet Kaur
      typing the code of CateoryRepository and Repository files
      Repository.cs copied from the given files
      Add and modify CategoryRepository.cs
+     
+      complited to the CoverType model 
+
+ added th Id and Name in the CoverType.cs file
+
+add the CoverTypeRepository Clas
+
+ added the ICoverTypeRepositry Interface 
+
+ made changes in the unitOfWork and IunitOfWork files
+
+ added the migration AddCoverTypeToDb to the migration folder
+ added the files for the covertype in view
+
 
 
      Create ISP_Call file and install Dapper package
@@ -57,3 +71,17 @@ Kamaljeet Kaur
     To perform delete operation Add the delete functionality in category.js 
     Add the Delete(url) functioncode 
     Finished with  part 2.3.......
+
+ complited to the CoverType model 
+
+ added th Id and Name in the CoverType.cs file
+
+ add the CoverTypeRepository Clas
+
+ added the ICoverTypeRepositry Interface 
+
+ made changes in the unitOfWork and IunitOfWork files
+
+ added the migration AddCoverTypeToDb to the migration folder
+
+ added the files for the covertype in view
