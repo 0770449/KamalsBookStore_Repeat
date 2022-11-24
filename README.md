@@ -33,22 +33,6 @@ Kamaljeet Kaur
      typing the code of CateoryRepository and Repository files
      Repository.cs copied from the given files
      Add and modify CategoryRepository.cs
-     
-      complited to the CoverType model 
-
- added th Id and Name in the CoverType.cs file
-
-add the CoverTypeRepository Clas
-
- added the ICoverTypeRepositry Interface 
-
- made changes in the unitOfWork and IunitOfWork files
-
- added the migration AddCoverTypeToDb to the migration folder
- added the files for the covertype in view
-
-
-
      Create ISP_Call file and install Dapper package
 
      I made the Sp_Call.cs and ISP_Call.cs(interface) files in the given repository
@@ -72,16 +56,18 @@ add the CoverTypeRepository Clas
     Add the Delete(url) functioncode 
     Finished with  part 2.3.......
 
- complited to the CoverType model 
+    complited to the CoverType model 
 
- added th Id and Name in the CoverType.cs file
+    added th Id and Name in the CoverType.cs file
 
- add the CoverTypeRepository Clas
+     add the CoverTypeRepository Clas
 
- added the ICoverTypeRepositry Interface 
+    added the ICoverTypeRepositry Interface 
 
- made changes in the unitOfWork and IunitOfWork files
+    made changes in the unitOfWork and IunitOfWork files
 
- added the migration AddCoverTypeToDb to the migration folder
+    added the migration AddCoverTypeToDb to the migration folder
 
- added the files for the covertype in view
+    added the files for the covertype in view
+    Similarly Did for Product
+    
