@@ -188,7 +188,10 @@ Finished with  part 2.3.......
 12:52AM....
 Change theme to Yeti as in  pprevious one some of the contents were not vesible very well
 
-..........Date:11/22/2022...................
+
+
+*****************************************************************************************************************************
+..........Date:2022/11/20...................
 Part 3 starts
 
 12:05PM
@@ -219,7 +222,9 @@ added the files for the covertype in view
  laeve the project for some time
 
 
- ....Date11/23/2022....
+
+***************************************************************************************
+ ....Date:2022/11/23....
  ......12:00PM.....
  start part 3.2 product CRUD
 
@@ -230,7 +235,7 @@ added the files for the covertype in view
  Add reference of product in the ApplicationDbContext file in DataAccess like as follows:
   public DbSet<Product> Product { get; set; }
 
-  .....1:00PM.....
+  .....01:00PM.....
   Added migration for the product
   -20221123183120_AddProductToDb
   And then update it
@@ -243,18 +248,18 @@ added the files for the covertype in view
 Now,Again update the Product class
 via adding required to the Title,ISBN and Author
 
-.....1:30PM.....
+.....01:30PM.....
 add migration again
-20221123184058_AddValidationToProduct
+-20221123184058_AddValidationToProduct
 and update it
 
-....2:55PM....
+....02:55PM....
 Added ProductRepository to the Repository folder and along with interface namely IProductRepository
 Added Product to the UnitOfWork  and IUnitofWork
 
 Run the Application, working smoothly all the project were succeded
 
-.....3:12PM....
+.....03:12PM....
 Start part 3.2 productCRUD(2)
 Added ProductController to the Areas>Admin>Controller
 
