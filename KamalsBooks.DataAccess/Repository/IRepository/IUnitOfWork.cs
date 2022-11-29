@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace KamalsBooks.DataAccess.Repository.IRepository
 {
+    
     public interface IUnitOfWork : IDisposable
     {
         ICategoryRepository Category { get; }

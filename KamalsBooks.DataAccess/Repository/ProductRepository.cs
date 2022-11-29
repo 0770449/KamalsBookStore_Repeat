@@ -20,24 +20,24 @@ namespace KamalsBooks.DataAccess.Repository
 
         public void Update(Product product)
         {
-            // use .NET Linq to retrieve the first or dedault category object
-            // then pass the id as generic entiry which matches the category ID
-            var objFormDb = _db.Product.FirstOrDefault(s => s.Id == product.Id);
-            if (objFormDb != null) // save changes if not null
+            var objFromDb = _db.Products.FirstOrDefault(s => s.Id == product.Id);
+
+            if (objFromDb != null)
             {
                 if (product.ImageUrl != null)
                 {
-                    objFormDb.ImageUrl = product.ImageUrl; // add check for ImageUrl
+                    objFromDb.ImageUrl = product.ImageUrl;
                 }
+                objFromDb.Title = product.Title;
+                objFromDb.Description = product.Description;
+                objFromDb.ISBN = product.ISBN;
+                objFromDb.Author = product.Author;
+                objFromDb.ListPrice = product.ListPrice;
+                objFromDb.CategoryId = product.CategoryId;
+                objFromDb.CoverTypeId = product.CoverTypeId;
+
+
             }
-            objFormDb.Title = product.Title;
-            objFormDb.Description = product.Description;
-            objFormDb.ISBN = product.ISBN;
-            objFormDb.Author = product.Author;
-            objFormDb.ListPrice = product.ListPrice;
-            objFormDb.CategoryId = product.CategoryId;
-            objFormDb.CoverTypeId = product.CoverTypeId;
         }
     }
 }
-

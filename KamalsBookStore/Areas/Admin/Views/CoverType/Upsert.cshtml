@@ -1,18 +1,17 @@
 ﻿@model KamalsBooks.Models.CoverType;
-@{ 
-    ViewData["Title"] = "CoverType Upsert";
-    var title = "Create CoverType";
- }
+
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+    var title = "Create CoverType"; }
 
 <form method="post">
     <div class="row p-3 border">
-        <div asp-validation-summary="ModelOnly"></div>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
         @if (Model.Id != 0)
         {
-            title = "Edit CoverType"; //edit
+            title = "Edit CoverType";
         }
         <div class="col-12 border-bottom">
-            <h2 class="text-primary">@title</h2>
+            <h2 class="text-primary"> @title</h2>
         </div>
         <div class="col-8 pt-4">
             <div class="form-group row">
@@ -28,17 +27,16 @@
                 <div class="col-8 offset-4">
                     @if (Model.Id != 0)
                     {
-                    <partial name="~/Views/Shared/_EditAndBackToListButton.cshtml" model="Model.Id" /> }
+        <partial name="_EditAndBackToListButton" modal="Model.Id" /> }
                     else
                     {
-                    <partial name="~/Views/Shared/_CreateAndBackToListButton.cshtml" />}
-                    <a href="C:\Users\hp\source\repos\KamalsBookStore_Repeatt\KamalsBookStore\Areas\Admin\Views\CoverType\Index.cshtml">C:\Users\hp\source\repos\KamalsBookStore_Repeatt\KamalsBookStore\Areas\Admin\Views\CoverType\Index.cshtml</a>
+        <partial name="_CreateAndBackToListButton" />}
                 </div>
             </div>
         </div>
     </div>
 </form>
 
-@section Scripts {
+@section Scripts{
     <partial name="_ValidationScriptsPartial" />
 }

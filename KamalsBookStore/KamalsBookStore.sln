@@ -13,6 +13,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KamalsBooks.DataAccess", "..\KamalsBooks.DataAccess\KamalsBooks.DataAccess.csproj", "{28BE8092-7296-44A2-A02C-3B618C2AEA40}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KamalsBooks.Models", "..\KamalsBooks.Models\KamalsBooks.Models.csproj", "{E11DE750-8D7B-4920-8499-7C1F1362F18D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AC0F1E45-3BB3-4858-9FFE-5DA71C127A5D} = {AC0F1E45-3BB3-4858-9FFE-5DA71C127A5D}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KamalsBooks.Utility", "..\KamalsBooks.Utility\KamalsBooks.Utility.csproj", "{AC0F1E45-3BB3-4858-9FFE-5DA71C127A5D}"
 EndProject
