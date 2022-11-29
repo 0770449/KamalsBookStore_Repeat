@@ -74,4 +74,3 @@ C:\Users\hp\source\repos\KamalsBookStore_RepeatAgain\KamalsBooks.Utility\obj\Deb
 C:\Users\hp\source\repos\KamalsBookStore_RepeatAgain\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\KamalsBookStore_RepeatAgain\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.dll
 C:\Users\hp\source\repos\KamalsBookStore_RepeatAgain\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.pdb
-C:\Users\hp\source\repos\KamalsBookStore_RepeatAgain\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.csproj.AssemblyReference.cache
