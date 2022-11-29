@@ -32,10 +32,12 @@ namespace KamalsBookStore
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
-            services.AddDefaultIdentity<IdentityUser>()   // Comment:options => options.SignIn.RequireConfirmedAccount = true
+            //services.AddDatabaseDeveloperPageExceptionFilter();
+
+            services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
             services.AddRazorPages();
         }
 
@@ -45,7 +47,7 @@ namespace KamalsBookStore
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseDatabaseErrorPage();
+                app.UseMigrationsEndPoint();
             }
             else
             {

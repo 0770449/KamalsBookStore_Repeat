@@ -16,7 +16,6 @@ namespace KamalsBookStore.Area.Admin.Controllers
     [Area("Admin")]
     public class CategoryController : Controller
     {
-
         private readonly IUnitOfWork _unitOfWork;
 
         public CategoryController(IUnitOfWork unitOfWork)
@@ -34,45 +33,45 @@ namespace KamalsBookStore.Area.Admin.Controllers
             Category category = new Category();
             if (id == null)
             {
+                // this is for create
                 return View(category);
             }
+            // this is for edit
             category = _unitOfWork.Category.Get(id.GetValueOrDefault());
             if (category == null)
             {
                 return NotFound();
             }
-            return View(); // Add category view
+            return View(category);
         }
 
-        #region API CALLS
-        [HttpGet]
-        public IActionResult GetAll()
-        {
-            var allObj = _unitOfWork.Category.GetAll();
-            return Json(new { data = allObj });
-        }
-
-
-        // use Http POST to define the post-action method
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Upsert(Category category)
         {
-            if (ModelState.IsValid) // checks all validations in the model (e.g Name required) to increase security
+            if (ModelState.IsValid)
             {
                 if (category.Id == 0)
                 {
                     _unitOfWork.Category.Add(category);
-                    _unitOfWork.Save();
                 }
                 else
                 {
                     _unitOfWork.Category.Update(category);
                 }
                 _unitOfWork.Save();
-                return RedirectToAction(nameof(Index)); // to see all the category
+                return RedirectToAction(nameof(Index));
             }
             return View(category);
+        }
+
+        #region API CALLS
+
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            var allObj = _unitOfWork.Category.GetAll();
+            return Json(new { data = allObj });
         }
 
         [HttpDelete]
@@ -85,8 +84,10 @@ namespace KamalsBookStore.Area.Admin.Controllers
             }
             _unitOfWork.Category.Remove(objFromDb);
             _unitOfWork.Save();
-            return Json(new { success = true, message = "Delete successful" });
+            return Json(new { success = true, message = "Delete Successful" });
         }
+
         #endregion
+
     }
 }

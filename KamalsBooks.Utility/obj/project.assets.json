@@ -1,11 +1,135 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.CodeAnalysis.NetAnalyzers/5.0.0": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.CodeAnalysis.NetAnalyzers.props": {},
+          "build/Microsoft.CodeAnalysis.NetAnalyzers.targets": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Microsoft.CodeAnalysis.NetAnalyzers/5.0.0": {
+      "sha512": "eo5X1kw68DQEoroRhrGOtY6tPIIOe4tF9aBIismx31mYjvrG6Ii5dCT/1YB4j9rB1q/iDcFTowRSXOTSFX/82Q==",
+      "type": "package",
+      "path": "microsoft.codeanalysis.netanalyzers/5.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "EULA.rtf",
+        "ThirdPartyNotices.rtf",
+        "analyzers/dotnet/cs/Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll",
+        "analyzers/dotnet/cs/Microsoft.CodeAnalysis.NetAnalyzers.dll",
+        "analyzers/dotnet/cs/cs/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/de/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/es/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/fr/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/it/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/ja/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/ko/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/pl/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/pt-BR/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/ru/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/tr/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/zh-Hans/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/cs/zh-Hant/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/Microsoft.CodeAnalysis.NetAnalyzers.dll",
+        "analyzers/dotnet/vb/Microsoft.CodeAnalysis.VisualBasic.NetAnalyzers.dll",
+        "analyzers/dotnet/vb/cs/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/de/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/es/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/fr/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/it/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/ja/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/ko/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/pl/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/pt-BR/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/ru/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/tr/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/zh-Hans/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "analyzers/dotnet/vb/zh-Hant/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll",
+        "build/DisableNETAnalyzersForNuGetPackage.props",
+        "build/Microsoft.CodeAnalysis.NetAnalyzers.props",
+        "build/Microsoft.CodeAnalysis.NetAnalyzers.targets",
+        "build/config/AnalysisLevel_5_AllDisabledByDefault.editorconfig",
+        "build/config/AnalysisLevel_5_AllEnabledByDefault.editorconfig",
+        "build/config/AnalysisLevel_5_Default.editorconfig",
+        "documentation/Analyzer Configuration.md",
+        "documentation/Microsoft.CodeAnalysis.NetAnalyzers.md",
+        "documentation/Microsoft.CodeAnalysis.NetAnalyzers.sarif",
+        "editorconfig/AllRulesDefault/.editorconfig",
+        "editorconfig/AllRulesDisabled/.editorconfig",
+        "editorconfig/AllRulesEnabled/.editorconfig",
+        "editorconfig/DataflowRulesDefault/.editorconfig",
+        "editorconfig/DataflowRulesEnabled/.editorconfig",
+        "editorconfig/DesignRulesDefault/.editorconfig",
+        "editorconfig/DesignRulesEnabled/.editorconfig",
+        "editorconfig/DocumentationRulesDefault/.editorconfig",
+        "editorconfig/DocumentationRulesEnabled/.editorconfig",
+        "editorconfig/GlobalizationRulesDefault/.editorconfig",
+        "editorconfig/GlobalizationRulesEnabled/.editorconfig",
+        "editorconfig/InteroperabilityRulesDefault/.editorconfig",
+        "editorconfig/InteroperabilityRulesEnabled/.editorconfig",
+        "editorconfig/MaintainabilityRulesDefault/.editorconfig",
+        "editorconfig/MaintainabilityRulesEnabled/.editorconfig",
+        "editorconfig/NamingRulesDefault/.editorconfig",
+        "editorconfig/NamingRulesEnabled/.editorconfig",
+        "editorconfig/PerformanceRulesDefault/.editorconfig",
+        "editorconfig/PerformanceRulesEnabled/.editorconfig",
+        "editorconfig/PortedFromFxCopRulesDefault/.editorconfig",
+        "editorconfig/PortedFromFxCopRulesEnabled/.editorconfig",
+        "editorconfig/PublishRulesDefault/.editorconfig",
+        "editorconfig/PublishRulesEnabled/.editorconfig",
+        "editorconfig/ReliabilityRulesDefault/.editorconfig",
+        "editorconfig/ReliabilityRulesEnabled/.editorconfig",
+        "editorconfig/SecurityRulesDefault/.editorconfig",
+        "editorconfig/SecurityRulesEnabled/.editorconfig",
+        "editorconfig/UsageRulesDefault/.editorconfig",
+        "editorconfig/UsageRulesEnabled/.editorconfig",
+        "microsoft.codeanalysis.netanalyzers.5.0.0.nupkg.sha512",
+        "microsoft.codeanalysis.netanalyzers.nuspec",
+        "rulesets/AllRulesDefault.ruleset",
+        "rulesets/AllRulesDisabled.ruleset",
+        "rulesets/AllRulesEnabled.ruleset",
+        "rulesets/DataflowRulesDefault.ruleset",
+        "rulesets/DataflowRulesEnabled.ruleset",
+        "rulesets/DesignRulesDefault.ruleset",
+        "rulesets/DesignRulesEnabled.ruleset",
+        "rulesets/DocumentationRulesDefault.ruleset",
+        "rulesets/DocumentationRulesEnabled.ruleset",
+        "rulesets/GlobalizationRulesDefault.ruleset",
+        "rulesets/GlobalizationRulesEnabled.ruleset",
+        "rulesets/InteroperabilityRulesDefault.ruleset",
+        "rulesets/InteroperabilityRulesEnabled.ruleset",
+        "rulesets/MaintainabilityRulesDefault.ruleset",
+        "rulesets/MaintainabilityRulesEnabled.ruleset",
+        "rulesets/NamingRulesDefault.ruleset",
+        "rulesets/NamingRulesEnabled.ruleset",
+        "rulesets/PerformanceRulesDefault.ruleset",
+        "rulesets/PerformanceRulesEnabled.ruleset",
+        "rulesets/PortedFromFxCopRulesDefault.ruleset",
+        "rulesets/PortedFromFxCopRulesEnabled.ruleset",
+        "rulesets/PublishRulesDefault.ruleset",
+        "rulesets/PublishRulesEnabled.ruleset",
+        "rulesets/ReliabilityRulesDefault.ruleset",
+        "rulesets/ReliabilityRulesEnabled.ruleset",
+        "rulesets/SecurityRulesDefault.ruleset",
+        "rulesets/SecurityRulesEnabled.ruleset",
+        "rulesets/UsageRulesDefault.ruleset",
+        "rulesets/UsageRulesEnabled.ruleset",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.CodeAnalysis.NetAnalyzers >= 5.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\hp\\.nuget\\packages\\": {}
@@ -13,11 +137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatAgain\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_RepeatAgain\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
       "projectName": "KamalsBooks.Utility",
-      "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatAgain\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_RepeatAgain\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatAgain\\KamalsBooks.Utility\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_RepeatAgain\\KamalsBooks.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +169,14 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.CodeAnalysis.NetAnalyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

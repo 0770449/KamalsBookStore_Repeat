@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m9nJQ8vgba2ZoQVYyYv6eTYDtyQd2nDVgZR7JwKNx9NMspp9GJ1NnwYoFx3F9O8LeXRnJq8NupySCsFNEb07lQ==",
+  "dgSpecHash": "plQk+hzsAg8fvS2z5hLC3VQEhFjNGSVJg8x9A27WDcB7hb+8GfT7+42jJW3zWf1ToEukpbT3KKbk6rT18O/jbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_RepeatAgain\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\5.0.0\\microsoft.codeanalysis.netanalyzers.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
