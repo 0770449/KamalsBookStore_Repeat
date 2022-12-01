@@ -280,6 +280,38 @@ Installed the Package namely
 Run the application without adding the upsert.cshtml file for the product
 
 
+.......Date:11/25/2022 
+       Time: 10:15AM..........
+Try to add upsert.cshtml file in the product
+Still giving some errors
+Analysing all the files again
+Leave the project for some time........
+
+
+.......Date:11/29/2022 
+       Time: 10:15AM..........
+Time to look all the files with all given repository link namely:BulkyBook
+Errors are resolved as there was no dependencies in the data Access folder.
+
+
+.....11:15AM.......
+Added all the required files....
+
+Run th product ,but did not showing the layout of all data
+Throwing an exception return back to visual studio
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
