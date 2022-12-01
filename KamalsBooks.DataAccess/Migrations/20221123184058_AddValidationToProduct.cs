@@ -7,12 +7,12 @@ namespace KamalsBooks.DataAccess.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropForeignKey(
-                name: "FK_Product_CoverTypes_CategoryId",
-                table: "Product");
+                name: "FK_Products_CoverTypes_CategoryId",
+                table: "Products");
 
             migrationBuilder.AlterColumn<string>(
                 name: "Title",
-                table: "Product",
+                table: "Products",
                 nullable: false,
                 oldClrType: typeof(string),
                 oldType: "nvarchar(max)",
@@ -20,7 +20,7 @@ namespace KamalsBooks.DataAccess.Migrations
 
             migrationBuilder.AlterColumn<string>(
                 name: "ISBN",
-                table: "Product",
+                table: "Products",
                 nullable: false,
                 oldClrType: typeof(string),
                 oldType: "nvarchar(max)",
@@ -28,20 +28,20 @@ namespace KamalsBooks.DataAccess.Migrations
 
             migrationBuilder.AlterColumn<string>(
                 name: "Author",
-                table: "Product",
+                table: "Products",
                 nullable: false,
                 oldClrType: typeof(string),
                 oldType: "nvarchar(max)",
                 oldNullable: true);
 
             migrationBuilder.CreateIndex(
-                name: "IX_Product_CoverTypeId",
-                table: "Product",
+                name: "IX_Products_CoverTypeId",
+                table: "Products",
                 column: "CoverTypeId");
 
             migrationBuilder.AddForeignKey(
-                name: "FK_Product_CoverTypes_CoverTypeId",
-                table: "Product",
+                name: "FK_Products_CoverTypes_CoverTypeId",
+                table: "Products",
                 column: "CoverTypeId",
                 principalTable: "CoverTypes",
                 principalColumn: "Id",
@@ -51,23 +51,23 @@ namespace KamalsBooks.DataAccess.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropForeignKey(
-                name: "FK_Product_CoverTypes_CoverTypeId",
-                table: "Product");
+                name: "FK_Products_CoverTypes_CoverTypeId",
+                table: "Products");
 
             migrationBuilder.DropIndex(
-                name: "IX_Product_CoverTypeId",
-                table: "Product");
+                name: "IX_Products_CoverTypeId",
+                table: "Products");
 
             migrationBuilder.AlterColumn<string>(
                 name: "Title",
-                table: "Product",
+                table: "Products",
                 type: "nvarchar(max)",
                 nullable: true,
                 oldClrType: typeof(string));
 
             migrationBuilder.AlterColumn<string>(
                 name: "ISBN",
-                table: "Product",
+                table: "Products",
                 type: "nvarchar(max)",
                 nullable: true,
                 oldClrType: typeof(string));
@@ -80,8 +80,8 @@ namespace KamalsBooks.DataAccess.Migrations
                 oldClrType: typeof(string));
 
             migrationBuilder.AddForeignKey(
-                name: "FK_Product_CoverTypes_CategoryId",
-                table: "Product",
+                name: "FK_Products_CoverTypes_CategoryId",
+                table: "Products",
                 column: "CategoryId",
                 principalTable: "CoverTypes",
                 principalColumn: "Id",
