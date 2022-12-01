@@ -300,6 +300,18 @@ Added all the required files....
 Run th product ,but did not showing the layout of all data
 Throwing an exception return back to visual studio
 
+11/30/2022
+.....08:10PM......
+To remove the exception I changed the databese made it dbo.Products
+Make changes in the migration files too
+So that it can add the migration properly
+Following this update the database
+
+......09:13PM.....
+When I clicked on image it was not loading the image as I did not create forder for this
+Create folder inside the wwwroot folder for the images
+Now the data for the new product is visible......
+
 
 
 
