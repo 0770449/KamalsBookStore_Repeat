@@ -74,3 +74,13 @@ C:\Users\hp\source\repos\KamalsBookStore_RepeatAgain\KamalsBooks.Utility\obj\Deb
 C:\Users\hp\source\repos\KamalsBookStore_RepeatAgain\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\KamalsBookStore_RepeatAgain\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.dll
 C:\Users\hp\source\repos\KamalsBookStore_RepeatAgain\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.pdb
+C:\Users\W0770449\Source\Repos\KamalsBookStore_RepeatAss2\KamalsBooks.Utility\bin\Debug\netcoreapp3.1\KamalsBooks.Utility.deps.json
+C:\Users\W0770449\Source\Repos\KamalsBookStore_RepeatAss2\KamalsBooks.Utility\bin\Debug\netcoreapp3.1\KamalsBooks.Utility.dll
+C:\Users\W0770449\Source\Repos\KamalsBookStore_RepeatAss2\KamalsBooks.Utility\bin\Debug\netcoreapp3.1\KamalsBooks.Utility.pdb
+C:\Users\W0770449\Source\Repos\KamalsBookStore_RepeatAss2\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.csproj.AssemblyReference.cache
+C:\Users\W0770449\Source\Repos\KamalsBookStore_RepeatAss2\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W0770449\Source\Repos\KamalsBookStore_RepeatAss2\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\W0770449\Source\Repos\KamalsBookStore_RepeatAss2\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.AssemblyInfo.cs
+C:\Users\W0770449\Source\Repos\KamalsBookStore_RepeatAss2\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\W0770449\Source\Repos\KamalsBookStore_RepeatAss2\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.dll
+C:\Users\W0770449\Source\Repos\KamalsBookStore_RepeatAss2\KamalsBooks.Utility\obj\Debug\netcoreapp3.1\KamalsBooks.Utility.pdb
