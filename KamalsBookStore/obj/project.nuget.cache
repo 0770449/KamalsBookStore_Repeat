@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fheZkkpuAQl0OUp/0Bxh/9lYSTeMlyp7ZJkVxlC2LQr/nBIZjn7PyES3FUWBtm83Y+mgsWj3+RFptJOIXnj8pA==",
+  "dgSpecHash": "LOiPr2RUJI1dC8GEi6ClRD0nyvQFuAuM/TfwNhQjIqO0wCbKBAOTHUYp4R2Pbg3lIYpmTA/CvsNiITRB+2m+4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_RepeatAss2\\KamalsBookStore\\KamalsBookStore.csproj",
+  "projectFilePath": "C:\\Users\\W0770449\\Source\\Repos\\KamalsBookStore_Repeat\\KamalsBookStore\\KamalsBookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W0770449\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\W0770449\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
