@@ -2633,6 +2633,9 @@
       "KamalsBooks.Utility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
+        },
         "compile": {
           "bin/placeholder/KamalsBooks.Utility.dll": {}
         },

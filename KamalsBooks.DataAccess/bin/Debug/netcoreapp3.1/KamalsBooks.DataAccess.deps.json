@@ -1850,6 +1850,9 @@
         }
       },
       "KamalsBooks.Utility/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
+        },
         "runtime": {
           "KamalsBooks.Utility.dll": {}
         }

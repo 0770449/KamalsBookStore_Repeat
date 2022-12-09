@@ -5407,3 +5407,5 @@ C:\Users\hp\Source\Repos\KamalsBookStore_RepeatFilek\KamalsBookStore\obj\Debug\n
 C:\Users\hp\Source\Repos\KamalsBookStore_RepeatFilek\KamalsBookStore\obj\Debug\netcoreapp3.1\KamalsBookStore.genruntimeconfig.cache
 C:\Users\hp\Source\Repos\KamalsBookStore_RepeatFilek\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
 C:\Users\hp\Source\Repos\KamalsBookStore_RepeatFilek\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
+C:\Users\hp\Source\Repos\KamalsBookStore_RepeatFilek\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\hp\Source\Repos\KamalsBookStore_RepeatFilek\KamalsBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs

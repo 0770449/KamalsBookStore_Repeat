@@ -3261,6 +3261,9 @@
       "KamalsBooks.Utility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
+        },
         "compile": {
           "bin/placeholder/KamalsBooks.Utility.dll": {}
         },
@@ -9996,6 +9999,7 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.30",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.30",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 3.1.30",
+      "Microsoft.AspNetCore.Mvc.ViewFeatures >= 2.2.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.30",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.30",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5"
@@ -10065,6 +10069,10 @@
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
             "target": "Package",
             "version": "[3.1.30, )"
+          },
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+            "target": "Package",
+            "version": "[2.2.0, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",

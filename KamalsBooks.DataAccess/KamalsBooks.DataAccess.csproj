@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -9,6 +9,10 @@
     <Compile Remove="Migrations\20221209155534_AddCategorysToDatabase.Designer.cs" />
     <Compile Remove="Migrations\20221209155715_AddCategoryToDatabase.cs" />
     <Compile Remove="Migrations\20221209155715_AddCategoryToDatabase.Designer.cs" />
+    <Compile Remove="Migrations\20221209171109_addValidationToProduct.cs" />
+    <Compile Remove="Migrations\20221209171109_addValidationToProduct.Designer.cs" />
+    <Compile Remove="Migrations\20221209171218_addValidationToProduct.cs" />
+    <Compile Remove="Migrations\20221209171218_addValidationToProduct.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
