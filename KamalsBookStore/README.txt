@@ -312,6 +312,39 @@ When I clicked on image it was not loading the image as I did not create forder 
 Create folder inside the wwwroot folder for the images
 Now the data for the new product is visible......
 
+*************Date:12/09/2022*************************************
+      .......06:40AM.........
+When open the project showing some exceptions...
+To remove these I decided to examine the project from the coverType.
+For this I did everything like migration, added controller,and viwes.....
+
+Perform all of the same operations for the CoverType
+like add migration and with its time stamp below :
+-20221209162752_AddCoverTypeTodb
+
+Following this I add pdoduct.cs file agian,did migraion with following time stamp:
+-20221209183858_addProductToDb
+
+Made some changes in product file and perform agian migration with validation
+-20221209184158_AddValidationToProduct
+
+Then Added Pdoduct controller and views file......
+
+To stored the product for cover Type didfollowing migration again
+-20221209184318_AddStoredProcForCoverType
+
+To display it on the home page, I create homeController and added the Index.cshtml file to view it on the home page.
+At the end I see the desired output on the screen .......
+
+
+************** THE END***************8888
+
+
+
+
+
+
+
 
 
 
