@@ -16,4 +16,3 @@ namespace KamalsBooks.Models
         public string Name { get; set; }
     }
 }
-

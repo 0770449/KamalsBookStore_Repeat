@@ -2,7 +2,7 @@
 
 namespace KamalsBooks.DataAccess.Migrations
 {
-    public partial class AddCategoryToDatabase : Migration
+    public partial class AddCategorystodb : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

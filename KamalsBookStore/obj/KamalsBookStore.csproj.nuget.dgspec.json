@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBookStore\\KamalsBookStore.csproj": {}
+    "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBookStore\\KamalsBookStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj",
         "projectName": "KamalsBooks.DataAccess",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Models\\KamalsBooks.Models.csproj"
+              "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Models\\KamalsBooks.Models.csproj"
               },
-              "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj"
+              "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
         "projectName": "KamalsBooks.Models",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Models\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,14 +147,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
         "projectName": "KamalsBooks.Utility",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Utility\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,14 +209,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBookStore\\KamalsBookStore.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBookStore\\KamalsBookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBookStore\\KamalsBookStore.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBookStore\\KamalsBookStore.csproj",
         "projectName": "KamalsBookStore",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBookStore\\KamalsBookStore.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBookStore\\KamalsBookStore.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBookStore\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBookStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,14 +233,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj"
+              "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.DataAccess\\KamalsBooks.DataAccess.csproj"
               },
-              "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Models\\KamalsBooks.Models.csproj"
+              "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Models\\KamalsBooks.Models.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Models\\KamalsBooks.Models.csproj"
               },
-              "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj"
+              "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Utility\\KamalsBooks.Utility.csproj"
               }
             }
           }

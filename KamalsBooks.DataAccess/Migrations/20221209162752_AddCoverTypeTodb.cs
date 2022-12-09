@@ -2,7 +2,7 @@
 
 namespace KamalsBooks.DataAccess.Migrations
 {
-    public partial class AddCoverTypeToDatabase : Migration
+    public partial class AddCoverTypeTodb : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

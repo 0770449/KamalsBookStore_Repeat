@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2gF8rZz/x2LDqbYvhtdPUdVKVR2Ah+MM+/uEPxpu2/ASnEwLg9Hm75rz+nSnniCsZ6KJOWhvQ57m/U0Ms6cnTA==",
+  "dgSpecHash": "Qhl5k2sH1p2L1dwIoDDTxPmfFumdqsO7RJ1TdnoWfqW5Pj7amvJnJghceRm3Ei/3BepnaEYf1pTDR38cYQt0AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\KamalsBookStore_Repeatfile\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Source\\Repos\\KamalsBookStore_RepeatFilek\\KamalsBooks.Models\\KamalsBooks.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
