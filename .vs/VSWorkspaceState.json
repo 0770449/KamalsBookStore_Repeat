@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\KamalsBooks.DataAccess",
+    "\\KamalsBooks.DataAccess\\bin",
+    "\\KamalsBooks.DataAccess\\Data",
+    "\\KamalsBooks.DataAccess\\Migrations",
+    "\\KamalsBooks.DataAccess\\obj"
   ],
-  "SelectedNode": "\\KamalsBookStore.sln",
   "PreviewInSolutionExplorer": false
 }

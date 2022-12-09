@@ -33,10 +33,8 @@ namespace KamalsBookStore.Area.Admin.Controllers
             Category category = new Category();
             if (id == null)
             {
-                // this is for create
                 return View(category);
             }
-            // this is for edit
             category = _unitOfWork.Category.Get(id.GetValueOrDefault());
             if (category == null)
             {
@@ -45,15 +43,17 @@ namespace KamalsBookStore.Area.Admin.Controllers
             return View(category);
         }
 
+        //use HTTP POST to define the post-action method
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Upsert(Category category)
         {
-            if (ModelState.IsValid)
+            if (ModelState.IsValid) //checks all validations in the model (e.g. Name required) to increase security
             {
                 if (category.Id == 0)
                 {
                     _unitOfWork.Category.Add(category);
+
                 }
                 else
                 {
@@ -65,11 +65,14 @@ namespace KamalsBookStore.Area.Admin.Controllers
             return View(category);
         }
 
-        #region API CALLS
 
+        // API calls here
+
+        #region API CALLS
         [HttpGet]
         public IActionResult GetAll()
         {
+            // return NotFound();
             var allObj = _unitOfWork.Category.GetAll();
             return Json(new { data = allObj });
         }
@@ -86,8 +89,6 @@ namespace KamalsBookStore.Area.Admin.Controllers
             _unitOfWork.Save();
             return Json(new { success = true, message = "Delete Successful" });
         }
-
         #endregion
-
     }
 }
